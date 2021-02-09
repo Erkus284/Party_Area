@@ -35,7 +35,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openwebsite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/watch?v=IGMabBGydC0&list=RDIGMabBGydC0&start_radio=1"
                 }],
