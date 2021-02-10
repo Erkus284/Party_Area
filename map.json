@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/v_B3qkp4nO4"
+                 "value":"https:\/\/www.youtube.com\/embed\/v_B3qkp4nO4?&autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
