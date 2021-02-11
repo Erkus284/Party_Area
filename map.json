@@ -325,9 +325,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitURL",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/erkus_corp\/37_birthay\/schnitzeljagd"
+                 "value":"map_sj.json"
                 }],
          "type":"tilelayer",
          "visible":true,
