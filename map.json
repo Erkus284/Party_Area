@@ -75,6 +75,12 @@
          "id":31,
          "name":"JitsiWZ",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Wohnzimmer"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":55,
@@ -321,7 +327,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/erkus284.github.io\/Party_Area\/map_sj.json"
+                 "value":"map_sj.json"
                 }],
          "type":"tilelayer",
          "visible":true,
